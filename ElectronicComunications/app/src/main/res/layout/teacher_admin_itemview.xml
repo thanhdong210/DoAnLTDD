@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="10dp"
+    android:paddingLeft="10dp"
+    android:orientation="vertical"
+    android:layout_marginRight="10dp">
+
+    <TextView
+        android:id="@+id/txtFirstNameTeacher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First Name: " />
+    <TextView
+        android:id="@+id/txtLastNameTeacher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last Name: "/>
+    <TextView
+        android:id="@+id/textDateOfBirth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date of birth: "/>
+    <TextView
+        android:id="@+id/txtSex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sex: "/>
+    <TextView
+        android:id="@+id/txtAge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Age: "/>
+
+    <TextView
+        android:id="@+id/txtPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone: " />
+    <TextView
+        android:id="@+id/txtGmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gmail: " />
+    <TextView
+        android:id="@+id/txtClassID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Class ID: " />
+    <TextView
+        android:id="@+id/txtFaculty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Faculty: " />
+
+</LinearLayout>

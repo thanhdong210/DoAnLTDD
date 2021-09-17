@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">ManagementSystem</string>
+    <string name="open_menu">Open Menu</string>
+    <string name="close_menu">Close Menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="classAdminID">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="classNameAdmin">
+        <item>17110CLS2</item>
+        <item>17110CLS3</item>
+    </string-array>
+    <string-array name="classAdminNoS">
+        <item>30</item>
+        <item>35</item>
+    </string-array>
+
+    <string-array name="teacherNameAdmin">
+        <item>Huynh Xuan Phung</item>
+        <item>Nguyen Dang Quang</item>
+    </string-array>
+    <string-array name="teacherDateAdmin">
+        <item>10/2/1976</item>
+        <item>2/10/1978</item>
+    </string-array>
+    <string-array name="teacherSexAdmin">
+        <item>Male</item>
+        <item>Male</item>
+    </string-array>
+    <string-array name="teacherPhoneAdmin">
+        <item>123</item>
+        <item>345</item>
+    </string-array>
+    <string-array name="teacherMailAdmin">
+        <item>abc</item>
+        <item>xyz</item>
+    </string-array>
+
+    <string-array name="tuitionSubjectAdmin">
+        <item>OOP</item>
+        <item>KTLT</item>
+    </string-array>
+    <string-array name="tuitionNoCAdmin">
+        <item>3</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="tuitionPriceAdmin">
+        <item>1996000</item>
+        <item>1996000</item>
+    </string-array>
+    <string-array name="lessons">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="numberLesson">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="rooms">
+        <item>A1-101</item>
+        <item>A1-102</item>
+        <item>A1-103</item>
+        <item>A2-101</item>
+        <item>A2-102</item>
+        <item>A2-103</item>
+        <item>A3-101</item>
+        <item>A3-102</item>
+        <item>A3-103</item>
+        <item>A4-101</item>
+        <item>A4-102</item>
+        <item>A4-103</item>
+        <item>A5-101</item>
+        <item>A5-102</item>
+        <item>A5-103</item>
+    </string-array>
+
+</resources>
